@@ -121,4 +121,4 @@ for post in random_posts:
 ---
 part of cabin's guides. learn more at [cabinfvr](https://cabinfvr.github.io)
 
-![](https://ace.kxd.fm/$4-_rX1AcyO1p8XTTcNO03A.png)
+![]([https://ace.kxd.fm/$4-_rX1AcyO1p8XTTcNO03A.png](https://ace.kxd.fm/$ZXX6L7OdwofV9RDdTEU_1w.png))
